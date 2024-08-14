@@ -1,0 +1,17 @@
+
+
+.btn{
+    padding: 20px;
+    background-color: blue;
+    color: beige;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+    margin: 30px;
+}
+
+
+h1{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}

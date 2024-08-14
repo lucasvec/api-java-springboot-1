@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/produtos/inserir
+Content-Type: application/json
+
+{
+  "nome": "Picanha Premium",
+"descricao":"1kg",
+"preco": 1,
+"quantidadeEstoque": 1
+}
